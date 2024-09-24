@@ -17,3 +17,6 @@ We’re always looking for ways to improve our methods for addressing this chall
 #### Percent of sessions with booking request: 1.9%
 
 The data is a sample representing user sessions in the past year in a US city. User sessions -- the time that users spend on our product -- can be long! Indeed, choosing the ideal next place you want to stay at can take time.
+
+### Note
+#### this work covers some EDA, data visualization and cleaning
